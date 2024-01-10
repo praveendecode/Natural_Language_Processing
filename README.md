@@ -4,22 +4,22 @@
 
 ## Language AI (LLM) : [View Project](https://github.com/praveendecode/Language_AI)
 
-## - Voice AI (LLM) :  [View Project](https://github.com/praveendecode/Voice_AI)
+## Voice AI (LLM) :  [View Project](https://github.com/praveendecode/Voice_AI)
 
-## - Business Card Data Extract  : [View Project](https://github.com/praveendecode/BizCardX)
+## Business Card Data Extract  : [View Project](https://github.com/praveendecode/BizCardX)
 
-## - TextWiz                       : [View Project](https://github.com/praveendecode/Textwiz)
+## TextWiz                       : [View Project](https://github.com/praveendecode/Textwiz)
  
-## - Query Genie                 : [View Project](https://github.com/praveendecode/QueryGenie)
+## Query Genie                 : [View Project](https://github.com/praveendecode/QueryGenie)
  
-## - Table QA                    : [View Project](https://github.com/praveendecode/TabulaQA)
+## Table QA                    : [View Project](https://github.com/praveendecode/TabulaQA)
  
-## - Talkify                     : [View Project](https://github.com/praveendecode/talkify)
+## Talkify                     : [View Project](https://github.com/praveendecode/talkify)
  
-## - Summarization AI            : [View Project](https://github.com/praveendecode/SummarixAI)
+## Summarization AI            : [View Project](https://github.com/praveendecode/SummarixAI)
  
-## - Spam Analyser               : [View Project](https://github.com/praveendecode/spamalyzer/tree/main)
+## Spam Analyser               : [View Project](https://github.com/praveendecode/spamalyzer/tree/main)
  
-## - Multilingual translator     : [View project](https://github.com/praveendecode/multilingual-translator_AI)
+## Multilingual translator     : [View project](https://github.com/praveendecode/multilingual-translator_AI)
  
-## - Emotion Analyser AI         : [View Project](https://github.com/praveendecode/emotion-analyzer-AI)
+## Emotion Analyser AI         : [View Project](https://github.com/praveendecode/emotion-analyzer-AI)
